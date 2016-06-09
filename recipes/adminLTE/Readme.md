@@ -1,5 +1,7 @@
 # Laravel Angular AdminLte
-[Laravel Angular Admin](https://github.com/silverbux/laravel-angular-admin)
+**Github Repo:** [https://github.com/silverbux/laravel-angular-admin](https://github.com/silverbux/laravel-angular-admin)
+
+**Demo:** [http://laravel-admin.herokuapp.com] (http://laravel-admin.herokuapp.com) ( admin@example.com / password )
 
 **[AdminLTE] (https://github.com/almasaeed2010/AdminLTE)** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
